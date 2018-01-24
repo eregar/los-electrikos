@@ -1,0 +1,144 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color:black;
+    font-size: 60px;
+    font-family: courier;
+}
+
+h2{
+  color:black;
+  text-align: center;
+  font-size: 40px;
+  font-family: courier;
+}
+
+h3{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+  font-size: 40px;
+  color: black;
+
+}
+
+a{
+  color: black;
+  font-family: courier;
+  font-size: 25px;
+}
+
+p {
+    font-family: georgia;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+
+#encabezado {
+  margin: auto;
+  width: 1340px;
+  height: 160px;
+  background-color: #104463;
+
+}
+
+#cuadro {
+  margin: auto;
+  width: 1000px;
+  height: 650px;
+  background-color: #6E90A4;
+}
+#cuadroHTML {
+  margin: auto;
+  width: 1000px;
+  height: 2300px;
+  background-color: #6E90A4;
+}
+#cuadroCSS {
+  margin: auto;
+  width: 1000px;
+  height: 2500px;
+  background-color: #6E90A4;
+}
+#cuadroJS {
+  margin: auto;
+  width: 1000px;
+  height: 1800px;
+  background-color: #6E90A4;
+}
+
+#lateral{
+  width: 200px;
+  height: 650px;
+  background-color: #104463;
+  float: right;
+}
+
+#lateral1{
+  width: 200px;
+  height: 650px;
+  background-color: #104463;
+  float: left;
+}
+#lateralHTMLizq{
+    width: 200px;
+    height: 2300px;
+    background-color: #104463;
+    float: left;
+}
+#lateralJSizq{
+    width: 200px;
+    height: 1800px;
+    background-color: #104463;
+    float: left;
+}
+#lateralCSSizq{
+    width: 200px;
+    height: 2500px;
+    background-color: #104463;
+    float: left;
+}
+#lateralHTMLder{
+    width: 200px;
+    height: 2300px;
+    background-color: #104463;
+    float: right;
+}
+#lateralCSSder{
+    width: 200px;
+    height: 2500px;
+    background-color: #104463;
+    float: right;
+}
+#lateralJSder{
+    width: 200px;
+    height: 1800px;
+    background-color: #104463;
+    float: right;
+}
+#circulo {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background-color: #104463;
+  border-radius: 50px;
+}
+
+#circulo1 {
+  float: right;
+  width: 100px;
+  height: 100px;
+  background-color: #104463;
+  border-radius: 50px;
+}
+
+img{
+  margin: auto;
+  display: block;
+  width: 400px;
+}
